@@ -1,2 +1,2 @@
 # ODSC2024
- FIles for the Gurobi workshop
+ Files for the Gurobi workshop
