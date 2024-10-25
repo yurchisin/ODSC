@@ -1,0 +1,29 @@
+chips,ingredients,r
+one,clay,18
+one,lead,0
+one,silver,0
+one,gold,0
+five,clay,17
+five,lead,2
+five,silver,0
+five,gold,0
+ten,clay,16
+ten,lead,3
+ten,silver,0
+ten,gold,0
+twenty-five,clay,13
+twenty-five,lead,4.5
+twenty-five,silver,0
+twenty-five,gold,0
+one hundred,clay,10
+one hundred,lead,6
+one hundred,silver,1
+one hundred,gold,0
+five hundred,clay,10
+five hundred,lead,8.5
+five hundred,silver,2
+five hundred,gold,0
+thousand,clay,10
+thousand,lead,9.5
+thousand,silver,0
+thousand,gold,2
