@@ -1,0 +1,7 @@
+We are in charge of chip production for a casino. Management would like to make these new chips using the on-hand inventory of raw material. The denominations we can make are (in dollars) 1, 5, 10, 25, 100, 500, 1000. Each denomination of chip requires a different amount of several raw materials. We are limited to the amount of material on hand, consisting of clay, lead, silver and gold. 
+
+Objective: Manufacture the **highest possible total value** in poker chips. 
+
+Constraints: 
+- Each chip's requires a specific amount of materials, found in recipes.csv, 
+- the total amount is in the file ing_amounts.csv
