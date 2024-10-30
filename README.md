@@ -4,9 +4,9 @@
 #### Notebook files
  [Notebook 1](https://colab.research.google.com/github/yurchisin/ODSC2024/blob/main/1_casino-chips.ipynb): Optimization Crash Course
  
- [Notebook 2 with blanks for you to fill in:](https://colab.research.google.com/github/yurchisin/ODSC2024/blob/main/2_more-casino-chips.ipynb): If You Can Model it You Can Optimize It Working Notebook
+ [Notebook 2 with blanks for you to fill in](https://colab.research.google.com/github/yurchisin/ODSC2024/blob/main/2_more-casino-chips.ipynb): If You Can Model it You Can Optimize It Working Notebook
  
- [Notebook 2 AnswerKey:](https://colab.research.google.com/github/yurchisin/ODSC2024/blob/main/2_more-casino-chips.ipynb): If You Can Model it You Can Optimize It with Answers
+ [Notebook 2 AnswerKey](https://colab.research.google.com/github/yurchisin/ODSC2024/blob/main/2_more-casino-chips.ipynb): If You Can Model it You Can Optimize It with Answers
 
  [Notebook 3](https://colab.research.google.com/github/yurchisin/ODSC2024/blob/main/3_modeling-with-genAI.ipynb): Optimization Modleing with Generative AI
  - [Gurobi AI Modeling Documentation](https://gurobi-optimization-gurobi-ai-modeling.readthedocs-hosted.com/en/latest/)
