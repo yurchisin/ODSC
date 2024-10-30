@@ -16,6 +16,7 @@
  - Sign up for [Opti 202](https://whova.com/portal/registration/opti_202412/?)!
  - [Full course](https://www.udemy.com/course/intro-to-optimization-pt1/) for Data Scientists on Udemy
  - Tons of [Jupyter notebooks](https://www.gurobi.com/jupyter_models/)
+ - Our now famous [Burrito Optimization Game](https://www.gurobi.com/burrito-optimization-game/)
 
  
 
