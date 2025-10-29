@@ -1,8 +1,8 @@
 ﻿chips,value,demand,cost,fixed_cost
-one,1,30,0.1,20
-five,5,30,0.1,20
-ten,10,30,0.15,20
-twenty-five,25,40,0.3,30
-one hundred,100,30,0.3,40
-five hundred,500,6,0.4,40
-thousand,1000,2,0.4,50
+one,1,30,0.05,10
+five,5,40,0.1,20
+ten,10,40,0.15,30
+twenty-five,25,60,0.2,40
+one hundred,100,20,0.25,50
+five hundred,500,4,0.3,60
+thousand,1000,2,0.35,70
